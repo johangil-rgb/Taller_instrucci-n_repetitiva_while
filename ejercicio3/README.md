@@ -29,3 +29,5 @@ El diagrama de flujo muestra cómo el programa:
 3. Compara el número ingresado con el número secreto.
 4. Da pistas para ayudar al usuario.
 5. Repite el proceso usando un **ciclo `while`** hasta acertar.
+
+[def]: 2fdde9968756a881f56c26af1feca42c.jpg
